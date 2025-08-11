@@ -44,6 +44,9 @@
     "email": "contato@evolution-api.com"
   },
   "license": "Apache-2.0",
+  "engines": {
+  "node": "18.x"
+},
   "bugs": {
     "url": "https://github.com/EvolutionAPI/evolution-api/issues"
   },
